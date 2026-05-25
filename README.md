@@ -6,7 +6,7 @@ This is an unofficial fan project and is not affiliated with Nintendo.
 
 ## Preview
 
-![Majora's Mask Clock](MM_Clock.png)
+![Majora's Mask Clock](MM_Clock.gif)
 
 ## Icon
 
